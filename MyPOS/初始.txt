@@ -1,0 +1,100 @@
+please enter an int(stop):
+10
+gBest[0]: 0.273936
+gBest[1]: -0.880864
+please enter an int(stop):
+100
+gBest[0]: -0.227015
+gBest[1]: -0.323288
+please enter an int(stop):
+1000
+gBest[0]: 0.0135403
+gBest[1]: 0.00504337
+please enter an int(stop):
+10000
+gBest[0]: 0.0135403
+gBest[1]: 0.00504337
+please enter an int(stop):
+100000
+gBest[0]: 0.00278711
+gBest[1]: 0.0103557
+please enter an int(stop):
+
+
+please enter an int(stop):
+10
+0.05
+gBest[0]: -1.23349
+gBest[1]: 0.275235
+please enter an int(stop):
+100
+0.005
+gBest[0]: -0.164575
+gBest[1]: 0.00905681
+please enter an int(stop):
+1000
+0.0005
+gBest[0]: 3.00484e-05
+gBest[1]: 0.0761855
+please enter an int(stop):
+10000
+5e-05
+gBest[0]: 3.00484e-05
+gBest[1]: 0.0761855
+please enter an int(stop):
+100000
+5e-06
+gBest[0]: 3.00484e-05
+gBest[1]: 0.0761855
+please enter an int(stop):
+
+
+please enter an int(stop):
+10
+gBest[0]: 0.313127
+gBest[1]: -3.74288
+please enter an int(stop):
+100
+gBest[0]: -0.130713
+gBest[1]: -0.0240507
+please enter an int(stop):
+1000
+gBest[0]: 0.038779
+gBest[1]: 0.00254044
+please enter an int(stop):
+10000
+gBest[0]: 0.00760188
+gBest[1]: 0.00271598
+please enter an int(stop):
+100000
+gBest[0]: 0.00760188
+gBest[1]: 0.00271598
+please enter an int(stop):
+
+
+
+please enter an int(stop):
+10
+gBest[0]: -0.0520979
+gBest[1]: 0.651374
+please enter an int(stop):
+100
+gBest[0]: -0.0092237
+gBest[1]: -0.0149434
+please enter an int(stop):
+1000
+gBest[0]: 0.00468617
+gBest[1]: -0.0134559
+please enter an int(stop):
+10000
+gBest[0]: 0.00107875
+gBest[1]: 9.86939e-05
+please enter an int(stop):
+100000
+gBest[0]: -7.12809e-05
+gBest[1]: 5.89846e-05
+please enter an int(stop):
+1000000
+gBest[0]: 3.22897e-06
+gBest[1]: -6.91617e-06
+please enter an int(stop):
